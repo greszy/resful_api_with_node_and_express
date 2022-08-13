@@ -1,4 +1,4 @@
-#Building RESTful APIs with Node.js and Express
+# Building RESTful APIs with Node.js and Express
 
 ## Overview
 
@@ -9,7 +9,7 @@ Part of my studies involves following tutorials and courses I can find online th
 I find these kind of study materials useful, especially when it involves popular technologies such as Node.js.
 Before I jump into building bigger projects, I always like to go over easier demos to get a better feeling of what the technology is offering.
 Emmanuel Henri's course is a great example of that kind of educational content. It offers a great overview of how to start building API's with Node.js and Express, combining both short-form lectures and code examples.
-You can read my full review about Building RESTful APIs with Node.js and Express, here on my [blog](https://medium.com/@gregoryszy/introduction-3d69f1278f84) on Medium.
+You can read my full review about Building RESTful APIs with Node.js and Express, here on my [blog](https://medium.com/@gregoryszy/my-review-of-building-restful-apis-with-node-js-and-express-b20efccd1cd) on Medium.
 You will see a lot of additional comments over the code. That is my way of taking notes, so I can solidify my understanding about what a specific line of code does and how does it relate to the whole project.
 Over time you can expect me to add additional comments. I will also be adding some new examples while I continue to try different elements of Node.js.
 I treat these types of repositories as a playground where I can test new framework features, learn more about how to properly use GitHub and practice my writing skills.
